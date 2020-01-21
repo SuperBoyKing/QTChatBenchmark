@@ -1,0 +1,11 @@
+debug/chatclient.o
+debug/clientsignup.o
+debug/fileselecter.o
+debug/main.o
+debug/clientsign.o
+debug/messengerwindow.o
+debug/moc_chatclient.o
+debug/moc_clientsign.o
+debug/moc_clientsignup.o
+debug/moc_fileselecter.o
+debug/moc_messengerwindow.o

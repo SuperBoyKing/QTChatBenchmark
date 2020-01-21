@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageServer", "MessageServer.vcxproj", "{21C449C4-9A56-3295-A185-356557C34624}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageClient", "..\MessageClient\MessageClient.vcxproj", "{F28FC548-F687-326F-8B62-069078C7F122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C449C4-9A56-3295-A185-356557C34624}.Debug|x64.ActiveCfg = Debug|x64
+		{21C449C4-9A56-3295-A185-356557C34624}.Debug|x64.Build.0 = Debug|x64
+		{21C449C4-9A56-3295-A185-356557C34624}.Release|x64.ActiveCfg = Release|x64
+		{21C449C4-9A56-3295-A185-356557C34624}.Release|x64.Build.0 = Release|x64
+		{F28FC548-F687-326F-8B62-069078C7F122}.Debug|x64.ActiveCfg = Debug|x64
+		{F28FC548-F687-326F-8B62-069078C7F122}.Debug|x64.Build.0 = Debug|x64
+		{F28FC548-F687-326F-8B62-069078C7F122}.Release|x64.ActiveCfg = Release|x64
+		{F28FC548-F687-326F-8B62-069078C7F122}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B6FACE-D084-42B5-AF92-A541A9FA7BB3}
+	EndGlobalSection
+EndGlobal

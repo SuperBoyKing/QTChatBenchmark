@@ -1,0 +1,11 @@
+release/chatclient.o
+release/clientsignup.o
+release/fileselecter.o
+release/main.o
+release/clientsign.o
+release/messengerwindow.o
+release/moc_chatclient.o
+release/moc_clientsign.o
+release/moc_clientsignup.o
+release/moc_fileselecter.o
+release/moc_messengerwindow.o
